@@ -7,7 +7,7 @@ The exciting and sometimes perilous adventures of building and maintaining my se
 
 I’m a chronically chroniced (iykyk) adventurer with a desperate need for systems. My journey into self-hosted AI started as a productive ADHD procrastination project and turned into a mission to protect digital freedom. 
 
-You may notice that I didn’t list computer science or any related fields in my credentials... That wasn’t an accident. I am a Business graduate with an emphasis in Marketing and a background in coaching, teaching, and social media. I’m building this "Second Brain" to prove that you don't need a CS degree to take control of your digital privacy.
+You may notice that I don’t list computer science or any related fields in my credentials... That wasn’t an accident. I am a Business graduate with an emphasis in Marketing and a background in coaching, teaching, and social media. I’m building this "Second Brain" to prove that you don't need a CS degree to take control of your digital privacy and do cool things.
 
 ### Credentials
 * **Education:** B.S. in Business (Marketing)
