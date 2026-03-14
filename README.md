@@ -10,7 +10,7 @@ I’m a chronically chroniced (iykyk) adventurer with a desperate need for syste
 You may notice that I don’t list computer science or any related fields in my credentials... That wasn’t an accident. I am a Business graduate with an emphasis in Marketing and a background in coaching, teaching, and social media. I’m building this "Second Brain" or "Brain 2.0" to prove that you don't need a CS degree to take control of your digital privacy and do cool things.
 
 ### Credentials
-* **Education:** B.S. in Business (Marketing) & Graduate Coursework in Communications Management (Public Relations) 
+* **Education:** Bachelor of Business Administration (Marketing) & Graduate Coursework in Communications Management (Public Relations) 
 * **Certifications:** Social Media, Coaching, and Teaching
 * **Areas of Lack:** What I DON'T have is an extensive background in computer science, machine learning, or programming. 
 
